@@ -1,0 +1,61 @@
+html,
+body {
+    height: 100%;
+}
+.navbar-nav.navbar-center {
+    position: absolute;
+    left: 50%;
+    transform: translatex(-50%);
+}
+
+#mynetwork {
+    width: 50%;
+    height: 100%;
+    border: 1px solid rgb(24, 1, 1);
+}
+
+#container2 {
+    width: 50%;
+    height: 100%;
+    border: 1px solid rgb(20, 1, 1);
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+}
+
+#mynetwork2{
+    width: 100%;
+    height: 100%;
+}
+
+#container{
+    width: 100%;
+    height: 70%;
+    background-color: rgb(219, 221, 216);
+    display: flex;
+    margin: 0 auto;
+}
+#cn{
+    background-color: rgb(125, 206, 59);
+    width: 100%;
+    height: 100%;
+}
+
+#generate-graph{
+    margin:auto;
+    display:block;
+    border: 2px solid rgb(20, 1, 1);
+}
+
+
+#solve{
+    margin:auto;
+    display:block;
+    border: 2px solid rgb(20, 1, 1);
+    
+}
+#create{
+    margin:auto;
+    display:block;
+    border: 2px solid rgb(14, 0, 0);   
+}
