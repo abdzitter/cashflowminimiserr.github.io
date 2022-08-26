@@ -1,2 +1,2 @@
 # cashflowminimiser.github.io
-The algorithm is hosted here https://abdzitter.github.io/cashflowminimiserr.github.io/
+The algorithm is hosted here https://adisrivastava121.github.io/cashflowminimiserr.github.io/
